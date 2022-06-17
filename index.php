@@ -8,4 +8,6 @@ echo "on branch feature/opt ";
 
 echo "switched to dev branch ";
 
+
+echo "indecx file stash 1";
 ?>

@@ -12,4 +12,7 @@ echo "stashed files are done ";
 
 
 echo "git cherry pick code";
+
+
+echo "remoly updated on gihub directly";
 ?>
